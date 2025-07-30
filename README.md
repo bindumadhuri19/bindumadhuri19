@@ -73,12 +73,6 @@ Certified by IBM, skilled in Python, SQL, Tableau, Power BI, and Snowflake — I
 - Product category analysis, revenue trends  
 - Combined Excel data model with Power BI visuals
 
-### 🛍 Online Retail Dashboard (Power BI)
-![Online Retail Dashboard](https://drive.google.com/uc?export=view&id=1-NJgvWA2xHy1837KgXQU2DfViKmnozWn)
-- Sales summary, customer segments, returns rate  
-- Designed with filters and heatmaps
-- 
-
 ---
 
 ## 🎓 Certifications
