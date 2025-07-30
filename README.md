@@ -107,7 +107,16 @@
 
 ### 📬 Let's Connect
 
-I'm always open to collaboration and projects in data science, analytics, and visualization. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-chalasani/) or email me at **binduchalasani19@gmail.com**!
+I'm always open to **collaboration**, **freelance projects**, and **full-time opportunities** in:
+
+- 📊 **Data Science**  
+- 📈 **Data Analytics**  
+- 🛠️ **Data Engineering**  
+- 📉 **Business Intelligence**  
+- 📋 **Dashboard Development (Power BI/Tableau)**
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-chalasani/)  
+or email me at **binduchalasani19@gmail.com** — let's build something impactful together!
 
 ---
 
