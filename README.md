@@ -1,30 +1,41 @@
 <h1 align="center">Hi, I'm Bindu Madhuri Chalasani 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bindumadhuri19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/bindumadhuri19?tab=followers">
+    <img src="https://img.shields.io/github/followers/bindumadhuri19?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+💻;Data+Analyst+📊;PowerBI+Analyst+⚙️;Dashboard+Designer+📈&center=true&width=500&height=45">
 </h3>
 
 ---
+### 🌐 Portfolio & Links
+- 🔗 **Portfolio**: [bindumadhuri19.github.io](https://bindumadhuri19.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-chalasani/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/bindu.chalasani/vizzes)
+- 📧 Email: binduchalasani19@gmail.com
 
-## 🚀 About Me
+### 🧠 About Me
 
-I am a **Data Scientist & Analyst** with 2 years of experience in predictive modeling, analytics, and business intelligence.  
-Certified by IBM, skilled in Python, SQL, Tableau, Power BI, and Snowflake — I love turning data into visual stories that drive action.
+🎓 Master's in Information Technology at **Northern Arizona University**  
+💼 2+ years experience in Data Science & Analytics  
+⚙️ Proficient in Python, SQL, Tableau, Power BI, Snowflake  
+🧪 Skilled in Machine Learning, Data Visualization, Predictive Modeling  
+🏆 IBM & Google certified  
 
----
+### ⚒️ Tech Stack
 
-## 🛠️ Technical Skills
-
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-**Data Platforms:** Snowflake, Databricks, Apache Superset  
-**Tech Skills:** Data Visualization, Predictive Modeling, ETL, SQL Joins, Feature Engineering  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 
 ---
 
@@ -85,13 +96,21 @@ Certified by IBM, skilled in Python, SQL, Tableau, Power BI, and Snowflake — I
 - ✅ Deloitte Australia Job Simulation (Forage)
 
 ---
+### 📈 GitHub Stats
 
-## 🔗 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bindumadhuri19&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindumadhuri19&theme=default" width="48%" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=flat&logo=github&logoColor=white)](https://bindumadhuri19.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bindu-madhuri-chalasani/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bindumadhuri19)  
-[![Tableau Public](https://img.shields.io/badge/-Tableau%20Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bindu.chalasani/vizzes)
+---
+
+### 📬 Let's Connect
+
+I'm always open to collaboration and projects in data science, analytics, and visualization. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-chalasani/) or email me at **binduchalasani19@gmail.com**!
+
+---
+
 
 <!--
 **bindumadhuri19/bindumadhuri19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
