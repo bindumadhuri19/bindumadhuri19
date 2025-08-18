@@ -43,7 +43,7 @@
 
 ### 🚗Tesla Stock Sales Analysis (Power BI)
 <p align="center">
-  <img src="https://drive.google.com/file/d/13wLzH8svQQiD6lI18p2j6DuQwbrBRWw9/view?usp=sharing" width="700"/>
+  <img src="https://drive.google.com/uc?export=view&id=13wLzH8svQQiD6lI18p2j6DuQwbrBRWw9" width="700"/>
 </p>
 - Visualizes Tesla sales data including models, prices, odometer readings, accident statistics, and 3D view.
 - Integrates a separate dataset with web images, URLs, and links for enhanced representation.
