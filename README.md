@@ -41,6 +41,16 @@
 
 ## 📁 Featured Projects
 
+### 🚗Tesla Stock Sales Analysis (Power BI)
+<p align="center">
+  <img src="https://drive.google.com/file/d/13wLzH8svQQiD6lI18p2j6DuQwbrBRWw9/view?usp=sharing" width="700"/>
+</p>
+- Visualizes Tesla sales data including models, prices, odometer readings, accident statistics, and 3D view.
+- Integrates a separate dataset with web images, URLs, and links for enhanced representation.
+- Useful for analyzing market trends, comparing regional pricing, and assessing vehicle condition
+
+---
+
 ### 🩺 AI-Powered Patient Dashboard (Tableau + Snowflake SQL)
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=16vILoTGK4CBq1ZnZdeOPq9ycNk_S_FYP" width="700"/>
@@ -65,15 +75,6 @@
 </p>
 - Visualized attrition, hiring trends, and performance metrics  
 - Used drill-through filters, custom tooltips, and page navigation
-
----
-
-### 🛍 Online Retail Dashboard (Power BI)
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-NJgvWA2xHy1837KgXQU2DfViKmnozWn" width="700"/>
-</p>
-- Sales summary, customer segments, returns rate  
-- Designed with filters, heatmaps, and region-level insights
 
 ---
 
