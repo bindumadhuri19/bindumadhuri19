@@ -21,7 +21,7 @@
 ### 🧠 About Me
 
 🎓 Master's in Information Technology at **Northern Arizona University**  
-💼 2+ years experience in Data Science & Analytics  
+💼 4+ years experience in Business and marketing analytics  
 ⚙️ Proficient in Python, SQL, Tableau, Power BI, Snowflake  
 🧪 Skilled in Machine Learning, Data Visualization, Predictive Modeling  
 🏆 IBM & Google certified  
