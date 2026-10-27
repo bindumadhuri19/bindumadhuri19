@@ -41,6 +41,22 @@
 
 ## 📁 Featured Projects
 
+### 🤖 AI Marketing Campaign Builder (Claude + Python + Streamlit)
+
+- AI-powered campaign generation and quality assurance platform.
+- Multi-agent workflow: Strategist → Content Creator → QA Reviewer.
+- Automated campaign validation including CTA, URL, UTM, placeholder, and compliance checks.
+- Human-in-the-loop approval workflow before campaign deployment.
+- Built using Claude API, Python, Streamlit, and automated QA logic.
+
+🚀 Live Demo:
+https://ai-marketing-campaign-builder-zgqpxr26vzqcasmptacpcg.streamlit.app/
+
+🔗 GitHub:
+https://github.com/bindumadhuri19/ai-marketing-campaign-builder
+
+---
+
 ### 🚗Tesla Stock Sales Analysis (Power BI)
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=13wLzH8svQQiD6lI18p2j6DuQwbrBRWw9" width="700"/>
